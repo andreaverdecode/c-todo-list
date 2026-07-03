@@ -1,2 +1,3 @@
 studiare 0 02/07/2026
 correre 1 03/07/2026
+studiare_info 0 3/7/2026
